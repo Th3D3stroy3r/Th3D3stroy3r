@@ -1,4 +1,5 @@
 ## Hi there 👋
+## I am a student and looking for like mineded people to explore the word of GitHub and coding.
 
 <!--
 **Th3D3stroy3r/Th3D3stroy3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
